@@ -1,3 +1,5 @@
+
+
 import React, { Component } from 'react';
 import './ExperienceCard.css';
 import { Fade } from "react-reveal";
@@ -32,8 +34,8 @@ class ExperienceCard extends Component {
             <div className="experience-card" style={{ background: `${theme.body}` }}>
               <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-between' }}>
                 <div>
-                  <h3 className="experience-card-title" style={{ color: theme.text }}>{experience["title"]}</h3>
-                  <p className="experience-card-company" style={{ color: theme.text }}>
+                  <h3 className="experience-card-title" style={{ color: 'whitesmoke' }}>{experience["title"]}</h3>
+                  <p className="experience-card-company" style={{ color: 'white' }}>
                     <a href={experience["company_url"]} target="_blank" rel="noopener noreferrer">
                       {experience["company"]}
                     </a>
@@ -47,7 +49,7 @@ class ExperienceCard extends Component {
 
                 </div>
               </div>
-              <div style={{ display: 'flex', justifyContent: 'flex-start', marginTop: 20 }}>
+              <div style={{ display: 'flex', justifyContent: 'flex-start', marginTop: 20 , color: 'white'}}>
                 <div
                   className="repo-description"
                 />

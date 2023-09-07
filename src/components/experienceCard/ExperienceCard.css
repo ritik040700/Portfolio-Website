@@ -156,6 +156,7 @@
   font-family: "Google Sans Regular";
   margin: 0;
   text-align: left;
+  color: white;
 }
 
 .experience-card-duration {
@@ -198,18 +199,19 @@
 
 .experience-card-company > a {
   position: relative;
-  color: #000;
+  color: white;
   text-decoration: none;
 }
 
 .experience-card-company > a:hover {
-  color: #000;
+  color: white;
 } 
 
 .experience-card-company > a:hover:before {
 visibility: visible;
 -webkit-transform: scaleX(1);
 transform: scaleX(1);
+color: white;
 }
 
 .experience-card-company > a:before {
@@ -284,6 +286,7 @@ transition: all 0.3s ease-in-out 0s;
       /* margin-bottom:10px; */
       flex-direction:column;
       text-align: center;
+      color: white;
   }
 
   .arrow-left {

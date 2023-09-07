@@ -19,6 +19,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white
 }
 
 .experience-heading-text-div {
@@ -44,6 +45,7 @@
   font-family: "Google Sans Regular";
   text-align: center;
   margin-bottom: 10px;
+  color: white
 }
 
 .experience-header-detail-text {
@@ -53,12 +55,14 @@
   margin-left: 20px;
   margin-right: 20px;
   font-family: "Google Sans Medium";
+  color: white
 }
 
 @media (max-width: 1380px) {
   .experience-heading-text {
     font-size: 50px;
     margin-top: 80px;
+    color: white
   }
   .experience-heading-sub-text {
     font-size: 25px;
@@ -69,6 +73,7 @@
   .experience-heading-text {
     font-size: 30px;
     margin-top: 20px;
+    color: white
   }
 
   .experience-heading-sub-text {
@@ -77,6 +82,7 @@
 
   .experience-heading-div {
     flex-direction: column;
+    color: white
   }
 
   .experience-header-detail-text {
@@ -84,5 +90,6 @@
     margin-right: 0px;
     line-height: normal;
     text-align: center;
+    color: white
   }
 }

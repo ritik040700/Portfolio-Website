@@ -27,7 +27,7 @@ const experience = {
 					duration: "October 2022 - July 2023",
 					location: "Gurgoan",
 					description: "I had work on many project includes designed and implemented APIs that allow the Policy frontend system to communicate with the backend systems, providing access to inventory information and enabling the processing of customer details.Designed and maintained the database systems that store and manage the customer's and insurer information",
-					color: "#0879bf"
+					// color: "#333"
 				},
 				// {
 				// 	title: "Android and ML Developer",
