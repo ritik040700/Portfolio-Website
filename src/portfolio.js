@@ -241,8 +241,8 @@ const degrees = {
       duration: "2019 - 2023",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI  etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I have Successfully Completed My final year Project With a Research Paper Selected In IEEE Conference ",
+        "⚡ Apart from this, I have done courses on Machine learning, Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+       
       ],
       website_link: "https://www.glbitm.org/",
     },
