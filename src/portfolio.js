@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Innovative Solutions Crafted with Code and Creativity.",
   resumeLink:
-    "https://drive.google.com/file/d/15B0f2K-1sNaZ37AGC3-8UTr7cJ6feHA_/view?usp=drive_link",
+    "https://drive.google.com/file/d/1EaxpCx0K26xPbds48pjoeQDlleYR2aU_/view",
     
   portfolio_repository: "https://github.com/ritik040700",
   githubProfile: "https://github.com/ritik040700",
